@@ -44,7 +44,7 @@ A comprehensive object detection system that leverages the state-of-the-art YOLO
 - **The Open-Source Community**: For continuous contributions and support.
 
 # Contact:-
-## For questions, suggestions, or support, please contact:
+### For questions, suggestions, or support, please contact:
 
 - **Sahil Sunil Patil**
 - **Email: sahilpatil.2422@gmail.com**
