@@ -37,13 +37,13 @@ A comprehensive object detection system that leverages the state-of-the-art YOLO
 ## License
 ### This project is licensed under the MIT License. See the LICENSE file for more details.
 
-## Acknowledgements
+## Acknowledgements:-
 - **OpenCV**: For providing robust computer vision tools.
 - **YOLOv10**: For state-of-the-art object detection capabilities.
 - **PyTorch**: For powering the deep learning framework behind the model.
 - **The Open-Source Community**: For continuous contributions and support.
 
-# Contact
+# Contact:-
 ## For questions, suggestions, or support, please contact:
 
 - **Sahil Sunil Patil**
