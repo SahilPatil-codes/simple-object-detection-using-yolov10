@@ -29,23 +29,23 @@ A comprehensive object detection system that leverages the state-of-the-art YOLO
 ## Contributing
 ### Contributions are welcome! To contribute:
 ### Fork the Repository.
-- **Create a New Branch (e.g., git checkout -b feature/your-feature).
-- **Commit Your Changes with clear, descriptive messages.
-- **Push to Your Branch and create a pull request detailing your modifications.
-- **Please adhere to the project’s coding standards and include tests where applicable.
+- Create a New Branch (e.g., git checkout -b feature/your-feature).
+- Commit Your Changes with clear, descriptive messages.
+- Push to Your Branch and create a pull request detailing your modifications.
+- Please adhere to the project’s coding standards and include tests where applicable.
 
 ## License
 ### This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgements
-- **OpenCV: For providing robust computer vision tools.
-- **YOLOv10: For state-of-the-art object detection capabilities.
-- **PyTorch: For powering the deep learning framework behind the model.
-- **The Open-Source Community: For continuous contributions and support.
+- **OpenCV**: For providing robust computer vision tools.
+- **YOLOv10**: For state-of-the-art object detection capabilities.
+- **PyTorch**: For powering the deep learning framework behind the model.
+- **The Open-Source Community**: For continuous contributions and support.
 
 # Contact
 ## For questions, suggestions, or support, please contact:
 
-- **Sahil Sunil Patil
-- **Email: sahilpatil.2422@gmail.com
-- **GitHub: SahilPatil-codes
+- **Sahil Sunil Patil**
+- **Email: sahilpatil.2422@gmail.com**
+- **GitHub: SahilPatil-codes**
